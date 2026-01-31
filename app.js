@@ -16,3 +16,7 @@ function farewell(name) {
   console.log("Goodbye, " + name + "!");
 }
 farewell("Alice");
+
+function login(){
+  console.log("User logged in");
+}
