@@ -20,3 +20,7 @@ farewell("Alice");
 function login(){
   console.log("User logged in");
 }
+
+function logout(){
+  console.log("User logged out");
+} 
