@@ -10,3 +10,5 @@ function greet(name) {
 greet("Alice");
 greet("Bob");
 greet("Charlie");
+greet("Rkmishra");
+greet("Devansh");
