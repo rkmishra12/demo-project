@@ -12,3 +12,7 @@ greet("Bob");
 greet("Charlie");
 greet("Rkmishra");
 greet("Devansh");
+function farewell(name) {
+  console.log("Goodbye, " + name + "!");
+}
+farewell("Alice");
