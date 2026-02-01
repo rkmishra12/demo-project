@@ -24,3 +24,6 @@ function login(){
 function logout(){
   console.log("User logged out");
 } 
+
+login();
+logout();
