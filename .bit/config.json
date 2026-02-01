@@ -1,9 +1,0 @@
-{
-  "version": "0.1.0",
-  "createdAt": "2026-02-01T03:49:05.906Z",
-  "features": {
-    "ghostBranches": true,
-    "mergePreview": true,
-    "aiCommits": true
-  }
-}
